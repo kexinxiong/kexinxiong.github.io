@@ -1,2 +1,3 @@
 # This is Dr. Kexin Xiong's Homepage. 
-I constructed it with Jemdoc and published it by Github Page. 
+This H.P. is constructed based on [Jemdoc](http://jemdoc.jaboc.net/index.html) and Github Page.
+If you have any quenstion, please contact my big boss, Mr. Zuhui Wang (wzhings\[AT\]gmail\[DOT\]com)
